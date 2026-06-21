@@ -1,1 +1,1 @@
-# Zspret-new
+# Zapret-new
